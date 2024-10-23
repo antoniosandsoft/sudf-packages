@@ -1,0 +1,33 @@
+# The package name
+name: com.sandsoft.sudf-packages
+# The package display name
+displayName: SUDF Package container
+# The short package description
+description: Sub project for alocate the git project inside sudf
+# The repository url
+repoUrl: 'https://github.com/antoniosandsoft/sudf-packages'
+# The forked repository url
+parentRepoUrl: null
+# The Software Package Data Exchange® (SPDX®) license id
+licenseSpdxId: MIT
+# The license name
+licenseName: MIT License
+# A list of topic slugs. See all options at https://github.com/openupm/openupm/blob/master/data/topics.yml
+topics:
+  - utilities
+# Filtering Git tags based on their prefix (this is not a regular expression).
+# It’s particularly useful for monorepos to distinguish between Git tags. i.e. 'com.example.foo/'.
+gitTagPrefix: ''
+# The regular expression that specifies intentionally untracked Git tags that should be ignored
+gitTagIgnore: '-master$'
+# The minimal version to build. Leave it blank to build all versions.
+minVersion: '1.0.5'
+# The featured image URL. It should point to a valid image URL instead of a web page that presents the image.
+# Leave it blank to use the generated default image.
+image: 'https://github.com/author/reponame/raw/master/path-of-img.png'
+# The featured image fit mode: cover (default) or contain. Learn more at https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit
+imageFit: cover
+# The README.md file path (branchname:filename)
+readme: 'main:README.md'
+# The package hunter's GitHub username
+hunter: author

@@ -1,0 +1,22 @@
+{
+  "name": "com.sandsoft.sudf-packages",
+  "version": "0.0.1",
+  "displayName": "SUDF Package container",
+  "description": "Sub project for alocate the git project inside sudf",
+  "unity": "2022.3",
+  "unityRelease": "50f1",
+  "documentationUrl": "https://github.com/antoniosandsoft/sudf-packages/wiki",
+  "changelogUrl": "https://github.com/antoniosandsoft/sudf-packages/changelog.html",
+  "licensesUrl": "https://github.com/antoniosandsoft/sudf-packages/LICENSE",
+  "dependencies": {
+    "com.mackysoft.serializereference-extensions": "https://github.com/mackysoft/Unity-SerializeReferenceExtensions.git?path=Assets/MackySoft/MackySoft.SerializeReferenceExtensions",
+ },
+ "keywords": [
+    "SUDF",
+  ],
+  "author": {
+    "name": "Sandsoft",
+    "email": "unity@example.com",
+    "url": "https://github.com/antoniosandsoft/sudf-packages"
+  }
+}
