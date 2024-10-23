@@ -11,9 +11,6 @@
 	"dependencies": {
 		"com.mackysoft.serializereference-extensions": "https://github.com/mackysoft/Unity-SerializeReferenceExtensions.git?path=Assets/MackySoft/MackySoft.SerializeReferenceExtensions",
 	},
-	"keywords": [
-		"SUDF"
-	],
 	"author": {
     "name": "Sandsoft",
     "email": "unity@example.com",
